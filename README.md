@@ -1,6 +1,29 @@
 # gitea-drone
 Gitea and Drone-CI
 
+## Pre-Requirements
+
+- [Traefik](https://github.com/bekkerstacks/traefik)
+
+## Setup
+
+Export the domain environment variable:
+
+```
+$ export DOMAIN=""
+```
+
+Deploy the stack:
+
+```
+$ docker stack deploy -c docker-compose.yml ci
+```
+
+## Endpoints
+
+- https://gitea.${DOMAIN}
+- https://drone.${DOMAIN} (auth: will use administrator account from gitea setup)
+
 ## Example Pipeline
 
 - `.drone.yml`
