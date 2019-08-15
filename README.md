@@ -5,6 +5,14 @@ Gitea and Drone-CI
 
 - [Traefik](https://github.com/bekkerstacks/traefik)
 
+## Documentation:
+
+- [the BekkerStacks Gitea-Drone Wiki](https://github.com/bekkerstacks/gitea-drone/wiki)
+  - [Deploy the Stack](https://github.com/bekkerstacks/gitea-drone/wiki/Deploy-the-Stack)
+  - [Gitea Inital Setup](https://github.com/bekkerstacks/gitea-drone/wiki/Gitea:-Initial-Setup)
+  - [Your First Gitea Repository](https://github.com/bekkerstacks/gitea-drone/wiki/Gitea:-Your-First-Repository)
+  - [Accessing Drone](https://github.com/bekkerstacks/gitea-drone/wiki/Drone:-Accessing-the-Service)
+
 ## Setup
 
 Export the domain environment variable:
