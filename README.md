@@ -7,7 +7,7 @@ Gitea and Drone-CI
 
 ## Documentation:
 
-- [the BekkerStacks Gitea-Drone Wiki](https://github.com/bekkerstacks/gitea-drone/wiki)
+- [The BekkerStacks Gitea-Drone Wiki](https://github.com/bekkerstacks/gitea-drone/wiki)
   - [Deploy the Stack](https://github.com/bekkerstacks/gitea-drone/wiki/Deploy-the-Stack)
   - [Gitea Inital Setup](https://github.com/bekkerstacks/gitea-drone/wiki/Gitea:-Initial-Setup)
   - [Your First Gitea Repository](https://github.com/bekkerstacks/gitea-drone/wiki/Gitea:-Your-First-Repository)
