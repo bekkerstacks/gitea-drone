@@ -23,7 +23,7 @@ services:
     volumes:
       - gitea_app:/data
     ports:
-      - "2222:22"
+      - 2222:2222
     networks:
       - public
       - private
